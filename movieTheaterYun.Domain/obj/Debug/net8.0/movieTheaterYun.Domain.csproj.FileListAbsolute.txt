@@ -1,0 +1,12 @@
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\bin\Debug\net8.0\movieTheaterYun.Domain.deps.json
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\bin\Debug\net8.0\movieTheaterYun.Domain.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\bin\Debug\net8.0\movieTheaterYun.Domain.pdb
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\movieTheaterYun.Domain.csproj.AssemblyReference.cache
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\movieTheaterYun.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\movieTheaterYun.Domain.AssemblyInfoInputs.cache
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\movieTheaterYun.Domain.AssemblyInfo.cs
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\movieTheaterYun.Domain.csproj.CoreCompileInputs.cache
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\movieTheaterYun.Domain.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\refint\movieTheaterYun.Domain.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\movieTheaterYun.Domain.pdb
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Domain\obj\Debug\net8.0\ref\movieTheaterYun.Domain.dll

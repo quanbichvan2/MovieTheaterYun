@@ -1,0 +1,17 @@
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\bin\Debug\net8.0\movieTheaterYun.Infrastructure.deps.json
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\bin\Debug\net8.0\movieTheaterYun.Infrastructure.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\bin\Debug\net8.0\movieTheaterYun.Infrastructure.pdb
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\bin\Debug\net8.0\movieTheaterYun.Application.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\bin\Debug\net8.0\movieTheaterYun.Domain.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\bin\Debug\net8.0\movieTheaterYun.Application.pdb
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\bin\Debug\net8.0\movieTheaterYun.Domain.pdb
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieTheaterYun.Infrastructure.csproj.AssemblyReference.cache
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieTheaterYun.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieTheaterYun.Infrastructure.AssemblyInfoInputs.cache
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieTheaterYun.Infrastructure.AssemblyInfo.cs
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieTheaterYun.Infrastructure.csproj.CoreCompileInputs.cache
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieThe.DF18D948.Up2Date
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieTheaterYun.Infrastructure.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\refint\movieTheaterYun.Infrastructure.dll
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\movieTheaterYun.Infrastructure.pdb
+E:\FPT\DATN\Yun\movieTheater_BE\movieTheaterYun.Infrastructure\obj\Debug\net8.0\ref\movieTheaterYun.Infrastructure.dll
